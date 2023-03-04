@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ddd;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    margin-top: 3em;    
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#inputText{
+    width: 200px;
+    height: 24px;
+    margin: 10px;
+    background-color: floralwhite;
+    color: purple;
+    border: 2px solid black;
+    outline: none;
+    border-radius: 10px;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+#addTodoButton{
+    width: 90px;
+    height: 30px;
+    font-size:20px;
+    background-color: lightblue;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+    margin: 10px;
+    
+
+}
+
+#clearTodosButton{
+    width: 90px;
+    height: 30px;
+    font-size:20px;
+    background-color: lightblue;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+    vertical-align: middle;
+    text-align: center;
+  
+}
+
+.paragraph{
+    cursor: pointer;
+    font-size: 20px;
+    color: purple;
+    text-transform: capitalize;
+}
