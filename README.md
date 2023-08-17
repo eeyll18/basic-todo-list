@@ -1,1 +1,1 @@
-# basit-todo-list
+# TODO-LIST PROJECT
